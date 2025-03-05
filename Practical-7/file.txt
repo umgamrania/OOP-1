@@ -1,0 +1,4 @@
+Hello there!
+This is a test file
+A file to use in a Java Program
+Java program to remove a string from file
