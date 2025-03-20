@@ -1,1 +1,0 @@
-"C:\Program Files\Java\jdk-1.8\bin\javac.exe" -classpath "E:/Degree/Sem 4/OOP/Practicals/Practical-8/lib/*;." %1.java && "C:\Program Files\Java\jdk-1.8\bin\java.exe" -classpath "E:/Degree/Sem 4/OOP/Practicals/Practical-8/lib/*;." %1
